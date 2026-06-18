@@ -21,7 +21,7 @@ Explore beautiful destinations with an attractive and user-friendly interface.
 Chetali Kumbhare
 
 ## Live Demo
-(Add your GitHub Pages / Netlify link here)
+ https://chetali0201.github.io/travel-website/
 
-## GitHub Repository
-(Add repository link here)
+
+
