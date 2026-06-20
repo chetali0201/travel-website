@@ -5,7 +5,7 @@ A modern and responsive travel website built using HTML, CSS, and JavaScript.
 ## Features
 - Responsive design for mobile and desktop
 - Modern UI with hero section
-- Popular destinations cards
+- Popular destination cards
 - Travel image gallery
 - Smooth and clean layout
 
